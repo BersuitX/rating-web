@@ -19,7 +19,7 @@ export default {
 
 // main css
 body {
-  background-color: #999;
+  background-color: #555;
   --azure-blue: #0071c5;
   --msft-green: #4e7200;
   --msft-orange: #c72b00;
@@ -39,7 +39,7 @@ html {
   width: 320px;
   padding: 8px 16px;
   font-family: "Graduate", sans-serif;
-  background-color: #444;
+  background-color: #891a23;
   line-height: 1.5;
   border-radius: 0px;
 }
